@@ -1,2 +1,2 @@
-# Phyton--Curso-desde-cero
+# Python--Curso-desde-cero
 Mis primeros pasos con Phyton
